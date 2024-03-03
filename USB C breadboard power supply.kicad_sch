@@ -3627,7 +3627,7 @@
     (property "Reference" "C4" (at 241.3 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (at 241.3 27.94 0)
+    (property "Value" "1uF" (at 241.3 27.94 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 238.4552 30.48 0)

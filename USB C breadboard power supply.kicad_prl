@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "All Layers",
-    "auto_track_width": false,
+    "active_layer": 44,
+    "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -64,8 +64,14 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "8001020_ffffffff",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "USB C breadboard power supply.kicad_prl",

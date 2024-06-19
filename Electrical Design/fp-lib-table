@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Project footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+  (lib (name "RD10RB6RTT")(type "KiCad")(uri "${KIPRJMOD}/footprints/RD10RB6RTT.pretty")(options "")(descr ""))
+)
